@@ -1,0 +1,10 @@
+insert into customer values (-1, 'Max', 1000);
+insert into customer values (-2, 'Leonie',1000.45);
+insert into customer values (-3, 'Martin', 300);
+insert into customer values (-4, 'Susi', 2886);
+insert into customer values (-5, 'Lorenz', 0);
+insert into customer values (-6, 'Leonie',450);
+insert into customer values (-7, 'Martin', 4320);
+insert into customer values (-8, 'Susi', 1334);
+insert into customer values (-9, 'Sue', 123);
+insert into customer values (-10, 'Susanne', 1313);
